@@ -5,7 +5,7 @@ public class Temperature_converter {
 	public static void main(String[] args) {
 	Scanner scan = new Scanner(System.in);
 	System.out.println("\n\tHolaaaa\n");
-	System.out.println("Enter value which you want to convert : ");
+	System.out.println("XD LOL JAJ ");
 	float value = scan.nextFloat();
 	System.out.println("  Enter 1 for Celsius to Fahrenheit converter....");
 	System.out.println("  Enter 2 for Fahrenheit to Celsius converter....");
