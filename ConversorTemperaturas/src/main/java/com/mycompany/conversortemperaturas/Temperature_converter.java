@@ -4,7 +4,7 @@ import java.util.Scanner;
 public class Temperature_converter {
 	public static void main(String[] args) {
 	Scanner scan = new Scanner(System.in);
-	System.out.println("\n\tHolaaaa\n");
+	System.out.println("\n\txdxdxdxd\n");
 	System.out.println("XD LOL JAJ ");
 
 	System.out.println("\n\tKE PASA\n");
